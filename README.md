@@ -1,1 +1,1 @@
-A repository for shell basics project DevOps
+A repository for Shell Projects (DevOps)
