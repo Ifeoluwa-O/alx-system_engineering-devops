@@ -1,1 +1,1 @@
-A repository for shell basics project DevOps
+0 a script that creates an alias
